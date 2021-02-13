@@ -6,4 +6,4 @@ Project created for FreeCodeAcademy's certification.
 
 ## Check it Live
 
-https://joaom-almeida.github.io/geraldoTribute/
+https://joaom-almeida.github.io/geraldoTribute/index.html
